@@ -10,11 +10,11 @@
 - ✅ **Day 2:** Variables, Data Types, Type Conversion, Math
 - ✅ **Day 3:** Control Flow – `if`, `elif`, `else`, and Python Pizza 🍕
 
-- 🔜 **Day 4:** Randomisation and Python Lists  
-- 🔜 **Day 5:** Python Loops  
-- 🔜 **Day 6:** Functions, Indentation, While Loops  
-- 🔜 **Day 7:** Hangman Project - String, Lists, Logic Practice  
-- 🔜 **Day 8:** Functions with Parameters  
+- ✅ **Day 4:** Randomisation and Python Lists  
+- ✅ **Day 5:** Python Loops  
+- ✅ **Day 6:** Functions, Indentation, While Loops  
+- ✅ **Day 7:** Hangman Project - String, Lists, Logic Practice  
+- ✅ **Day 8:** Functions with Parameters  
 - 🔜 **Day 9:** Dictionaries and Nesting  
 - 🔜 **Day 10:** Functions with Outputs  
 
