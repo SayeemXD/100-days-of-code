@@ -15,7 +15,7 @@
 - ✅ **Day 6:** Functions, Indentation, While Loops  
 - ✅ **Day 7:** Hangman Project - String, Lists, Logic Practice  
 - ✅ **Day 8:** Functions with Parameters  
-- 🔜 **Day 9:** Dictionaries and Nesting  
+- ✅ **Day 9:** Dictionaries and Nesting  
 - 🔜 **Day 10:** Functions with Outputs  
 
 - 🔜 **Day 11:** The Blackjack Project  
