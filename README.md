@@ -18,7 +18,7 @@
 - ✅ **Day 9:** Dictionaries and Nesting  
 - ✅ **Day 10:** Functions with Outputs  
 
-- 🔜 **Day 11:** The Blackjack Project  
+- ✅ **Day 11:** The Blackjack Project  
 - 🔜 **Day 12:** Scope and Number Guessing Game  
 - 🔜 **Day 13:** Debugging: How to Find and Fix Errors  
 - 🔜 **Day 14:** Higher Order Functions  
