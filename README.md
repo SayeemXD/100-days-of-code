@@ -20,7 +20,7 @@
 
 - ✅ **Day 11:** The Blackjack Project  
 - ✅ **Day 12:** Scope and Number Guessing Game  
-- 🔜 **Day 13:** Debugging: How to Find and Fix Errors  
+- ✅ **Day 13:** Debugging: How to Find and Fix Errors  
 - 🔜 **Day 14:** Higher Order Functions  
 - 🔜 **Day 15:** Coffee Machine Project (OOP Starter)  
 - 🔜 **Day 16:** Object-Oriented Programming (Classes & Objects)  
